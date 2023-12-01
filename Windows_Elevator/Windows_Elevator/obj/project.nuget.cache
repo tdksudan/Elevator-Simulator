@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qa9jrnOW7EDNEPII7FqNOt52ANclmMxzPaEHrnCpFudiOYBVDr+wtXVerPZnyUUybnBwFmgkwvN5BAIEX/O7SA==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio\\Windows_Elevator\\Windows_Elevator\\Windows_Elevator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NITRO\\.nuget\\packages\\mysqlconnector\\2.2.7\\mysqlconnector.2.2.7.nupkg.sha512"
+  ],
+  "logs": []
+}
